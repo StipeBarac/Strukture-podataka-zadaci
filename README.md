@@ -5,5 +5,4 @@ Ovaj repozitorij sadrži zadatke iz kolegija **Strukture podataka**. Svi zadaci 
 - Povezane liste (jednostruko i dvostruko povezane)
 - Stabla (binarna stabla, pretrage)
 - Redovi i stogovi
-- Matrice i osnovni algoritmi
 - Ostali zadaci vezani uz strukture podataka
